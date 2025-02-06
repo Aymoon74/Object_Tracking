@@ -29,4 +29,4 @@ pip install -r requirements.txt
     streamlit run app.py
     ```
 2. This App deployed on streamlit cloud.
-3. Upload a video file and see the object tracking in action. [Here](https://objecttrackingprojectroute.streamlit.app/)
+3. Upload a video file and see the object tracking in action. [Here](https://objecttrackingprojectaymon.streamlit.app/)
