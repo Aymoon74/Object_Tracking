@@ -1,9 +1,5 @@
 # Object Tracking Application
-<<<<<<< HEAD
-![alt text](image.png)
-=======
 ![image](https://github.com/user-attachments/assets/a611c725-6103-42bf-9493-984a567ddce9)
->>>>>>> 57731d3027f09229d2ec171b72f361af88a5a143
 This application tracks moving objects in a video using OpenCV and Streamlit. It uses the MOG2 background subtractor to detect moving objects and draws a green rectangle around them.
 
 ## Features
